@@ -2,4 +2,4 @@
 
 def say_hello(thing) {
   return "Hello #{thing}"
-}
+end
