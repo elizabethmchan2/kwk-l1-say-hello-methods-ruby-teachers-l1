@@ -4,3 +4,5 @@ def say_hello(thing="Ruby Programmer")
   
   return "Hello #{thing}"
 end
+
+say_hello()
